@@ -78,7 +78,6 @@
     transform: translate(-50%,-50%);
     animation: nine 4.8s ease 0.8s 1.4 alternate both;
 }
-
 @keyframes one {  
     100% {
         left: 38%; top: 28%;
